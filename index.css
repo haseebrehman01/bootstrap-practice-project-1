@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box ;
+}
+
+/* img{
+
+    width: 120px !important;
+
+} */
+#btn{
+    border:1px solid   rgb(255 201 0);
+}
+
+
+#btn:hover{
+    background-color:  rgb(255, 207, 33) ;
+}
+
+
+a:hover{
+color: rgb(255, 200, 0) !important  ;
+};
+
+#form-control{
+
+}
+#courasel{
+    height: 200px !important;
+}
+/* .hero{
+height: 300px;
+width: 300px;
+} */
+.spacerz{
+    height: 100vh;
+    
+}
